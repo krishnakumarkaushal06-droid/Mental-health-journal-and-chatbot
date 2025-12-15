@@ -107,21 +107,4 @@ button {
   .tab-btn { border-radius: 15px; }
   .chat-container { height: 400px; }
 }
-
-
-.main-btn {
-  display: inline-block;
-  padding: 12px 25px;
-  background: #4b7bec;
-  color: white;
-  font-size: 18px;
-  border-radius: 10px;
-  text-decoration: none;
-  font-weight: bold;
-  transition: 0.3s;
-}
-
-.main-btn:hover {
-  background: #3867d6;
-  transform: scale(1.05);
-}
+  
